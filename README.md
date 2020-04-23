@@ -14,7 +14,8 @@ In this cloud service, we can manage diffents silos and discover data using an o
 With this self-service solution, data consumers can easily find, understand, govern, and track Oracle Cloud data assets.
 
 1. Before Instantiate Data Catalog
-   You need to give the right permissions to your cloud tenant
+   You need to give the right permissions to your cloud tenant. You can check [here](https://docs.cloud.oracle.com/en-us/iaas/data-catalog/using/policies.htm#policies "Oracle Official Documentation").
+   
    >>asdasd
 
 2. Instantiate Data Catalog
