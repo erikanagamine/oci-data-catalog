@@ -1,9 +1,9 @@
->    #     ___  ____     _    ____ _     _____
->    #    / _ \|  _ \   / \  / ___| |   | ____|
->    #   | | | | |_) | / _ \| |   | |   |  _|
->    #   | |_| |  _ < / ___ | |___| |___| |___
->    #    \___/|_| \_/_/   \_\____|_____|_____|
->***
+    #     ___  ____     _    ____ _     _____
+    #    / _ \|  _ \   / \  / ___| |   | ____|
+    #   | | | | |_) | / _ \| |   | |   |  _|
+    #   | |_| |  _ < / ___ | |___| |___| |___
+    #    \___/|_| \_/_/   \_\____|_____|_____|
+***
 
 # OCI Data Catalog
 
@@ -14,13 +14,15 @@ In this cloud service, we can manage diffents silos and discover data using an o
 With this self-service solution, data consumers can easily find, understand, govern, and track Oracle Cloud data assets.
 
 1. Before Instantiate Data Catalog
-   fff
+   You need to give the right permissions to your cloud tenant
    >>asdasd
 
 2. Instantiate Data Catalog
    hhh
 3. j
 
-Important link:
+Link:
+
+[Policies] https://docs.cloud.oracle.com/en-us/iaas/data-catalog/using/policies.htm#policies
 https://aws.amazon.com/quicksight/
 https://docs.cloud.oracle.com/en-us/iaas/data-catalog/tutorials/harvest-object-storage.htm
