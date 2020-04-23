@@ -15,11 +15,19 @@ With this self-service solution, data consumers can easily find, understand, gov
 
 1. Before Instantiate Data Catalog
    You need to give the right permissions to your cloud tenant. You can check [here](https://docs.cloud.oracle.com/en-us/iaas/data-catalog/using/policies.htm#policies "Oracle Official Documentation").
-   
-   >>asdasd
 
-2. Instantiate Data Catalog
-   hhh
+   To create a policy, please go to menu -> identity -> policy
+
+   In terms of tests, we will give all permission to tenancy
+
+   >> allow service datacatalog to read object-family in tenancy
+
+2. Create Data Catalog
+   To instantiate a data catalog service, you should go to menu -> Data and AI -> Data Catalog.
+
+   Choose your prefered compartment and click in "Create Data Catalog".
+   ![Creating Data Catalog!](create_data_catalog.png "Data catalog service")
+
 3. j
 
 Link:
