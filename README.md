@@ -162,4 +162,4 @@ The term is created and the term displays in the glossary details tab.
   
 - [White paper](https://www.oracle.com/a/ocom/docs/oci-data-catalog-data-sheet.pdf "Oracle Official Documentation").
 
-
+- [Official Blog](https://blogs.oracle.com/bigdata/what-is-oracle-cloud-infrastructure-data-catalog  "Oracle Blog").
