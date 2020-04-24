@@ -36,11 +36,15 @@ With this self-service solution, data consumers can easily find, understand, gov
 
    PS. You can add a tag on the service if you want to create a budget segregated report.
 
-   After creating your service, you should checking on the page:
-   
-   ![Creating Data Catalog!](create_data_catalog_screen.png "Data catalog service")
+   After creating your service, you should click the service created on the page:
 
-3. After creating your
+   ![Creating Data Catalog!](catalog_service.png "Data catalog service")
+
+3. Navigate into the console
+4. Create a new asset
+5. Harvesting
+6. Create a glossary
+7. Create
 
 Link:
 
