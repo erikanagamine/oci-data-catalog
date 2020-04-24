@@ -7,7 +7,7 @@
 
 # OCI Data Catalog
 
-Oracle Cloud Infrastructure Data Catalog is an metadata platform that helps you on manage metadata on many silos of data.
+Oracle Cloud Infrastructure Data Catalog is a metadata platform that helps you on manage metadata on many silos of data.
 
 In this cloud service, we can manage diffents silos and discover data using an organized inventory of data assets across your cloud account.
 
