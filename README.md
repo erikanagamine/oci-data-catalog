@@ -18,17 +18,29 @@ With this self-service solution, data consumers can easily find, understand, gov
 
    To create a policy, please go to menu -> identity -> policy
 
-   In terms of tests, we will give all permission to tenancy
-
+   In terms of tests, we will give all permission to tenancy, but as a best practice, you should check the right permission:
+   
    >> allow service datacatalog to read object-family in tenancy
+
 
 2. Create Data Catalog
    To instantiate a data catalog service, you should go to menu -> Data and AI -> Data Catalog.
 
    Choose your prefered compartment and click in "Create Data Catalog".
+
    ![Creating Data Catalog!](create_data_catalog.png "Data catalog service")
 
-3. j
+   On the creation screen, you need to choose the compartment and the name of this service and click in "Create Data Catalog".
+   
+   ![Creating Data Catalog!](create_data_catalog_screen.png "Data catalog service")
+
+   PS. You can add a tag on the service if you want to create a budget segregated report.
+
+   After creating your service, you should checking on the page:
+   
+   ![Creating Data Catalog!](create_data_catalog_screen.png "Data catalog service")
+
+3. After creating your
 
 Link:
 
